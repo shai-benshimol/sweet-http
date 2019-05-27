@@ -9,13 +9,14 @@ Small Typescript Http Request Callback Based on Fetch!
 --- | --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 
-
-Using npm:
-
+##### Using NPM
 ```bash
 $ npm install --save sweet-http
 ```
-
+##### Using Yarn
+```bash
+$ yarn add sweet-http
+```
 ## Usage
 * [Implementation](#Implemetation)
 * [URL Generation](#Url-Generation)
