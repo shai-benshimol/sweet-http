@@ -1,6 +1,6 @@
 {
   "name": "sweet-http",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "lib/sweet-http.js",
   "types": "lib/sweet-http.d.ts",
   "scripts": {
@@ -12,7 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/shai-benshimol/sweet-http.git"
   },
-  "keywords": [],
+  "keywords": [
+    "http",
+    "https",
+    "xhr",
+    "ajax",
+    "promise",
+    "node",
+    "angular",
+    "vuejs",
+    "react"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
