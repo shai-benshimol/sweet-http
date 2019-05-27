@@ -183,7 +183,7 @@ class Api implements SweetHttp.Activate {
 
     constructor(){
 
-        SweetHttp.delete.launch({
+        SweetHttp.Delete.launch({
             url: this.url,
             apiName: this.postUser
         }, user.id, this);
