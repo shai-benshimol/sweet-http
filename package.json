@@ -1,0 +1,32 @@
+{
+  "name": "sweet-http",
+  "version": "1.0.0",
+  "main": "lib/sweet-http.js",
+  "types": "lib/sweet-http.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shai-benshimol/sweet-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shai-benshimol/sweet-http/issues"
+  },
+  "homepage": "https://github.com/shai-benshimol/sweet-http#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "description": "Small Typescript Http Request Callback Based on Fetch!"
+}
